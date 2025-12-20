@@ -22,16 +22,11 @@ I speak English, Mandarin, Spanish, German and Italian, read Latin and Ancient G
 ### Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,langchain&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,react,nextjs,vite&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,fastapi,supabase&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase,docker,aws,gcp,git,github,linux&theme=dark" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxzfan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxzfan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
