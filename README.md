@@ -36,5 +36,6 @@ When I'm not building, I'm at the piano. I performed **Chopin's Concerto No. 1**
 </div>
 
 
-Contact me @ **[LinkedIn](https://www.linkedin.com/in/maxzfan)** · **[X](https://x.com/maxzimofan)** · maxfan [at] stanford [dot] edu. Copyright @ 2025 Max Fan. All rights reserved.
+### Contact
+**[LinkedIn](https://www.linkedin.com/in/maxzfan)** · **[X](https://x.com/maxzimofan)** · maxfan [at] stanford [dot] edu.
 
