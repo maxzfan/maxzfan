@@ -17,7 +17,7 @@ When I'm not building, I'm at the piano. I performed **Chopin's Concerto No. 1**
 
 ### Fun Facts
 
-- I speak English, Chinese, Spanish, German, and Italian, plus Latin and Ancient Greek for the classics. I'm always dabbling in more, learning Hindi and Arabic currently!
+- I speak English, Chinese, Spanish, Latin, Ancient Greek, German, and Italian. I'm always dabbling in more, learning Hindi and Arabic currently!
 - I attended Ad Astra School in SpaceX HQ, founded by Elon Musk, throughout middle school.
 - I'm ambidextrous: I write (and eat) with both hands, and even hit two forehadns in tennis.
 - My favorite number is 176 (coincidentally my IQ score!)
