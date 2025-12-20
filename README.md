@@ -17,7 +17,7 @@ When I'm not building, I'm at the piano. I performed **Chopin's Concerto No. 1**
 
 ### Languages
 
-I speak English, Mandarin, Spanish, German and Italian, read Latin and Ancient Greek, and code primarily in Python with AI/ML stacks, although I have experience in various tech stacks and deployment settings. See below: 
+I speak English, Mandarin, Spanish, German and Italian, read Latin and Ancient Greek, and code primarily in Python with AI/ML stacks, although I have experience in various tech stacks and deployment settings.
 
 ### Tech Arsenal
 
