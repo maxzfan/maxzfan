@@ -1,23 +1,37 @@
-# What's up, Max here!
+# What's up, Max here. Thanks for stopping by!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maxzfan&label=Profile%20views&color=0e75b6&style=flat" alt="maxzfan" />
   <img src="https://img.shields.io/github/followers/maxzfan?label=Followers&style=social" alt="Followers" />
 </p>
 
-I'm studying **Computer Science (AI)** and **Mathematics** at **Stanford**. Right now I'm building a stealth startup as Co-Founder & CTO, while also serving as a Founding Engineer at **Friday (YC F24)**. On campus, I'm the Financial Officer for the Class of '29 and was selected for **Stanford ASES** (Top 3 at Demo Day).
+I'm studying **Computer Science (AI)** and **Math** at **Stanford**. Right now I'm building a startup in architecture, and working as Founding Engineer at **Friday (YC F24)**. On campus, I'm an ASES Bootcamper and serve as the Financial Officer for the Class of 2029.
 
-### 🧬 Research & Engineering
+### Research & Engineering
 
-My work spans AI, genomics, and linguistics. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, created ML models predicting cancer likelihood from 3D genome structure at **UCLA**, and researched phonetic alignment of Bantu languages at **Harvard** and **MIT**.
+I'm interested in computational linguistics, genomics, quantum computing, and AI, among other things. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, created ML models predicting cancer likelihood from 3D genome structure at **UCLA**, and researched phonetic alignment of Bantu languages at **Harvard** and **MIT**. Most recently, I presented my project on quantum interferometry at Stanford, an ML model trained on simulated 3d worlds that can detect underground caves and tunnels with only surface measurements. 
 
-### 🎹 The Arts
+### Arts and Hobbies
 
-When I'm not coding, I'm at the piano. I performed **Chopin's Concerto No. 1** as a soloist with the **Boston Pops** at Symphony Hall, was a **2024 YoungArts Winner** in Classical Piano, and completed performance studies at **Mozarteum Salzburg**.
+When I'm not building, I'm at the piano. I performed **Chopin's Concerto No. 1** as a soloist with the **Boston Pops** at Symphony Hall, was a **2024 YoungArts Winner** in Classical Piano, and completed performance studies at **Mozarteum Salzburg**. In my free time, I'm trading stocks, reading science fiction, and playing tennis.
 
-### 🌍 Languages
+### Languages
 
-I speak English, Chinese, German, Spanish, and Italian, read Latin and Ancient Greek, and code primarily in Python with AI/ML stacks.
+I speak English, Mandarin, Spanish, German and Italian, read Latin and Ancient Greek, and code primarily in Python with AI/ML stacks, although I have experience in various tech stacks and deployment settings. See below: 
+
+### Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,langchain&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,fastapi,supabase&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,gcp&theme=dark" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxzfan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxzfan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
@@ -25,4 +39,5 @@ I speak English, Chinese, German, Spanish, and Italian, read Latin and Ancient G
 
 ---
 
-📬 **[LinkedIn](https://www.linkedin.com/in/maxzfan)** · maxfan [at] stanford [dot] edu
+Contact me: **[LinkedIn](https://www.linkedin.com/in/maxzfan)** · **[X](https://x.com/maxzimofan)** · maxfan [at] stanford [dot] edu
+
