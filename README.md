@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/maxzfan?label=Followers&style=social" alt="Followers" />
 </p>
 
-I'm studying **Computer Science (AI)** and **Math** at **Stanford**. Right now I'm building a startup in architecture, and working as Founding Engineer at **Friday (YC F24)**. On campus, I'm an ASES Bootcamper and serve as the Financial Officer for the Class of 2029.
+I'm 18, studying **Computer Science (AI)** and **Math** at **Stanford**. Right now I'm building a startup in architecture, and working as Founding Engineer at **Friday (YC F24)**. On campus, I'm an ASES Bootcamper and serve as the Financial Officer for the Class of 2029.
 
 ### Research & Engineering
 
