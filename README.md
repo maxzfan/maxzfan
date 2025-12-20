@@ -34,5 +34,5 @@ I speak English, Mandarin, Spanish, German and Italian, read Latin and Ancient G
 
 ---
 
-Contact me: **[LinkedIn](https://www.linkedin.com/in/maxzfan)** · **[X](https://x.com/maxzimofan)** · maxfan [at] stanford [dot] edu
+Contact me here: **[LinkedIn](https://www.linkedin.com/in/maxzfan)** · **[X](https://x.com/maxzimofan)** · maxfan [at] stanford [dot] edu
 
