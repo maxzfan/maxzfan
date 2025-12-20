@@ -9,7 +9,7 @@ I'm studying **Computer Science (AI)** and **Math** at **Stanford**. Right now I
 
 ### Research & Engineering
 
-I'm interested in computational linguistics, genomics, quantum computing, and AI, among other things. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, created ML models predicting cancer likelihood from 3D genome structure at **UCLA**, and researched phonetic alignment of Bantu languages at **Harvard** and **MIT**. Most recently, I presented a research project on quantum interferometry at Stanford, an ML model trained on simulated 3d worlds that can detect underground caves and tunnels with only surface measurements. 
+I'm interested in computational linguistics, genomics, quantum computing, and world models, among other things. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, researched phonetic alignment of Bantu languages at **Harvard** and **MIT**, and created ML models predicting cancer likelihood from 3D genome structure at **UCLA**. Most recently, I presented a research project on quantum interferometry at Stanford, an ML model trained on simulated 3d worlds that can detect underground caves and tunnels with only surface measurements. 
 
 ### Arts and Hobbies
 
