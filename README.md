@@ -9,15 +9,18 @@ I'm studying **Computer Science (AI)** and **Math** at **Stanford**. Right now I
 
 ### Research & Engineering
 
-I'm interested in computational linguistics, genomics, quantum computing, and AI, among other things. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, created ML models predicting cancer likelihood from 3D genome structure at **UCLA**, and researched phonetic alignment of Bantu languages at **Harvard** and **MIT**. Most recently, I presented my project on quantum interferometry at Stanford, an ML model trained on simulated 3d worlds that can detect underground caves and tunnels with only surface measurements. 
+I'm interested in computational linguistics, genomics, quantum computing, and AI, among other things. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, created ML models predicting cancer likelihood from 3D genome structure at **UCLA**, and researched phonetic alignment of Bantu languages at **Harvard** and **MIT**. Most recently, I presented a research project on quantum interferometry at Stanford, an ML model trained on simulated 3d worlds that can detect underground caves and tunnels with only surface measurements. 
 
 ### Arts and Hobbies
 
 When I'm not building, I'm at the piano. I performed **Chopin's Concerto No. 1** as a soloist with the **Boston Pops** at Symphony Hall, was a **2024 YoungArts Winner** in Classical Piano, and completed performance studies at **Mozarteum Salzburg**. In my free time, I'm trading stocks, reading science fiction, and playing tennis.
 
-### Languages
+### Fun Facts
 
-I speak English, Mandarin, Spanish, German and Italian, read Latin and Ancient Greek, and code primarily in Python with AI/ML stacks, although I have experience in various tech stacks and deployment settings.
+I speak English, Chinese, German, Spanish, and Italian, plus Latin and Ancient Greek for the classics.
+I attended Ad Astra School in SpaceX HQ founded by Elon Musk.
+I play tennis ambidextrously — forehand with both hands, switch mid-rally.
+My favorite number is 176 (coincidentally my IQ score!)
 
 ### Tech Arsenal
 
