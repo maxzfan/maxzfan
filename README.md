@@ -35,7 +35,6 @@ When I'm not building, I'm at the piano. I performed **Chopin's Concerto No. 1**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxzfan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
----
 
-Contact me here: **[LinkedIn](https://www.linkedin.com/in/maxzfan)** · **[X](https://x.com/maxzimofan)** · maxfan [at] stanford [dot] edu
+Contact me @ **[LinkedIn](https://www.linkedin.com/in/maxzfan)** · **[X](https://x.com/maxzimofan)** · maxfan [at] stanford [dot] edu.
 
