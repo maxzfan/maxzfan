@@ -1,11 +1,15 @@
 # What's up, Max here!
-### 👨‍💻 CS (AI) & Math @ Stanford | 🎹 Pianist | 🚀 YC Founder
 
-[cite_start]I'm a freshman at **Stanford University** (Class of '29) studying **Computer Science (AI Track)** and **Mathematics**[cite: 97, 98]. [cite_start]I sit at the intersection of deep tech, entrepreneurship, and the arts—currently building startups while exploring computational linguistics, genomics, and world models[cite: 24, 28].
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maxzfan&label=Profile%20views&color=0e75b6&style=flat" alt="maxzfan" />
+  <img src="https://img.shields.io/github/followers/maxzfan?label=Followers&style=social" alt="Followers" />
+</p>
+
+I'm at at **Stanford University** studying **Computer Science (AI Track)** and **Mathematics**. I sit at the intersection of deep tech, entrepreneurship, and the arts—currently building a startup while exploring computational linguistics, genomics, and world models.
 
 ---
 
-### 🔭 What I'm Building Now
+### What I'm Building Now
 * [cite_start]**Stealth Startup:** Co-Founder & CTO (Oct 2025 - Present)[cite: 31, 32].
 * [cite_start]**Friday (YC F24):** Founding Engineer at a YC-backed company[cite: 34, 35].
 * [cite_start]**Stanford ASES:** Selected for the flagship entrepreneurship bootcamp (Top 3 at Fall Demo Day)[cite: 37, 40, 41].
@@ -35,6 +39,8 @@ I have a history of working on deep research problems across AI, biology, and li
 * [cite_start]**Spoken/Written:** English, Chinese, German, Spanish, Italian[cite: 10, 12, 13, 14, 16].
 * [cite_start]**Classical:** Latin, Ancient Greek[cite: 11, 15].
 * [cite_start]**Code:** Python, AI/ML Stacks[cite: 6, 8].
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dmaxzfan%26bg_color%3D0D1117%26color%3D5BCDEC%26line%3D5BCDEC%26point%3DFFFFFF%26hide_border%3Dtrue" width="100%" alt="Contribution Graph" /> </div>
 
 ---
 
