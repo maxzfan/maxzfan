@@ -13,14 +13,14 @@ I'm interested in computational linguistics, genomics, quantum computing, and wo
 
 ### Arts and Hobbies
 
-When I'm not building, I'm at the piano. I performed **Chopin's Concerto No. 1** as a soloist with the **Boston Pops** at Symphony Hall, was a **2024 YoungArts Winner** in Classical Piano, and completed performance studies at **Mozarteum Salzburg**. In my free time, I'm trading stocks, reading science fiction, and playing tennis.
+When I'm not building, I'm at the piano. I started performing at age 3 while enrolled in the Central Conservatory of Music in Beijing, and have since concertized in 25+ countries. Most recently, I performed **Chopin's Concerto No. 1** as a soloist with the **Boston Pops** at Symphony Hall, was a **YoungArts Winner** in Classical Piano, and completed performance studies at **Mozarteum Salzburg**. In my free time, I'm trading stocks, reading science fiction, and playing tennis.
 
 ### Fun Facts
 
 - I speak English, Chinese, Spanish, Latin, Ancient Greek, German, and Italian. I'm always dabbling in more (Hindi and Arabic currently)!
 - I attended Ad Astra School in SpaceX HQ, founded by Elon Musk, throughout middle school.
 - I'm ambidextrous: I write (and eat) with both hands, and even hit two forehands in tennis. Don't ask me which one is better, though.
-- My favorite number is 176 (coincidentally my IQ score!)
+- My favorite number is 176 (coincidentally my IQ score :D)
 
 ### Tech Arsenal
 
