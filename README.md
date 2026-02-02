@@ -5,11 +5,11 @@
   <img src="https://img.shields.io/github/followers/maxzfan?label=Followers&style=social" alt="Followers" />
 </p>
 
-I'm 18, studying **Computer Science (AI & Systems Tracks)** and **Math** at **Stanford**. Right now I'm working on a project in architecture (www.0studio.xyz). On campus, I'm an ASES Bootcamper and serve as the Financial Officer for the Class of 2029.
+I'm 18, studying **Computer Science (AI & Systems Tracks)** and **Physics** at **Stanford**. Right now I'm working on a project in architecture (www.0studio.xyz). On campus, I'm an ASES Bootcamper and serve as the Chief Financial Officer for the Class of 2029, and currently doing research under Ph.D. student Wanjia Zhao in the Stanford AI Lab.
 
 ### Research & Engineering
 
-I'm interested in computational linguistics, genomics, quantum computing, and foundational models, among other things. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, researched phonetic alignment of Bantu languages at **Harvard** and **MIT**, and created ML models predicting cancer likelihood from 3D genome structure at **UCLA**. Most recently, I presented a research project on quantum interferometry at Stanford, an ML model trained on simulated 3d worlds that can detect underground caves and tunnels with only surface measurements. 
+I'm interested in computational linguistics, quantum computing, and genomics, foundational science models, and game theory, among other things. I've built deep research agents at **Sylvan Labs**, developed NLP constraint parsers at **Fastbreak AI**, researched phonetic alignment of Bantu languages at **Harvard** and **MIT**, and created ML models predicting cancer likelihood from 3D genome structure at **UCLA**. Most recently, I presented a research project on quantum interferometry at Stanford, an ML model trained on simulated 3d worlds that can detect underground caves and tunnels with only surface measurements. 
 
 ### Arts and Hobbies
 
