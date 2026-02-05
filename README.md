@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/maxzfan?label=Followers&style=social" alt="Followers" />
 </p>
 
-I'm 18, studying **Computer Science (AI & Systems Tracks)** and **Physics** at **Stanford**. Right now I'm working on a project in architecture (www.0studio.xyz). On campus, I'm an ASES Bootcamper and serve as the Chief Financial Officer for the Class of 2029, and currently doing research under Ph.D. student Wanjia Zhao in the Stanford AI Lab.
+I'm 18, studying **Computer Science (AI & Systems Tracks)** and **Physics** at **Stanford**. Right now I'm working on a project in architecture (www.0studio.xyz). On campus, I'm an ASES Bootcamper and serve as the Chief Financial Officer for the Class of 2029.
 
 ### Research & Engineering
 
